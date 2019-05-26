@@ -6,7 +6,11 @@ https://wedex555.github.io/Hangman-Game/.
 
 ## Description
 - Simply begin typing to enter your guesses
+<img width="1415" alt="Screen Shot 2019-05-26 at 10 32 51 AM" src="https://user-images.githubusercontent.com/46644726/58385238-02357c80-7fa2-11e9-9e82-94cc4a0ddb98.png">
+
 - You only have 5 guesses until the current word is cleared and the next one is loaded
+<img width="1413" alt="Screen Shot 2019-05-26 at 10 33 38 AM" src="https://user-images.githubusercontent.com/46644726/58385249-301ac100-7fa2-11e9-928c-725c28880b47.png">
+
 - Your wins and failed attempts are recorded
 
 ## Requirements

@@ -1,7 +1,7 @@
 # Hangman-Game
 The third homework assignment
 
-## Live Link
+## Live demo
 https://wedex555.github.io/Hangman-Game/.
 
 ## Description
@@ -31,4 +31,4 @@ https://wedex555.github.io/Hangman-Game/.
 - The CSS is really the visual aspect of this project, giving the colors and margins, etc. Flexbox was of enormous use in the project (particularly in customizing the scaling of elements)
 - External web fonts, audio, and visual effects were added to spice things up
 
-(https://user-images.githubusercontent.com/46644726/57797193-c0cde300-76fe-11e9-9b61-ae8bc28596b4.png)
+
